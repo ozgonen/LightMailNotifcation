@@ -1,0 +1,11 @@
+{
+  "name": "light-mail-notifcations",
+  "version": "1.0.0",
+  "description": "when email comes, let there be light!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oz Gonen",
+  "license": "ISC"
+}
